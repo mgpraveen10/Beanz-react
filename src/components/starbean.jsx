@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './starbean.css';
-import espresso from "../images/espresso.png";
- import mixie from "../images/filter-coffee.png";
+import espresso from "../espresso-coffee.png";
+ import mixie from "../filter-coffee.png";
 class StarBean extends Component {
     state = {  } 
     render() { 
