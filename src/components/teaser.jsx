@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './teaser.css';
-import teaser from "../images/beanz-a.webp";
+import teaser from '../teaser.webp';
 class Teaser extends Component {
     state = {  } 
     render() { 
